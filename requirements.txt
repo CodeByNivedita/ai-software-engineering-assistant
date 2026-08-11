@@ -1,0 +1,6 @@
+PyJWT>=2.0.0
+requests>=2.0.0
+pytest>=6.0.0
+
+# Optional in production
+# redis>=4.0.0
